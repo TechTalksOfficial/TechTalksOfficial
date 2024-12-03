@@ -1,6 +1,6 @@
 # Assalam Walaikum! We are **TechTalksOfficial** 👋
 
-![TechTalksOfficial Banner](https://drive.google.com/file/d/1eDPMbmu23iEl_iz0XEkm8PcB7MKO9Ymo/view?usp=sharing)
+![TechTalksOfficial Banner](https://ibb.co/Tm7ppQQ)
 Welcome to the **TechTalksOfficial** GitHub page! We are a passionate tech education team committed to making programming and technology more accessible to everyone. **TechTalks** is a collaborative initiative led by **Yousuf Naveed Khan** and **Muneeb Hassan Siddiqui**, two software developers who aim to bridge the gap between theory and real-world application.
 
 📊 **Viewers to Date**: ![Visitor Badge](https://img.shields.io/badge/Visitors-500+%20-4c1f2f)
