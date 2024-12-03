@@ -42,11 +42,11 @@ To get started with our content:
 1. **Explore the Courses**: Check out our course directories to dive into the lessons and examples.
 2. **Complete the Assignments**: Test your knowledge with assignments designed to reinforce key concepts.
 3. **Build Projects**: Apply what you've learned with our real-world projects.
-4. **Engage and Share**: Join the community on our [TechTalks WhatsApp Channel](#) for discussions and updates.
+4. **Engage and Share**: Join the community on our [TechTalks WhatsApp Channel](https://whatsapp.com/channel/0029VagV97dAYlUArxZwhh0H) for discussions and updates.
 
 ## 🤝 Connect With Us
 We are always open to feedback, questions, and collaboration! Feel free to connect with us through the following channels:
 
-- **TechTalks WhatsApp Channel**: [Join Now](#)
+- **TechTalks WhatsApp Channel**: [Join Now](https://whatsapp.com/channel/0029VagV97dAYlUArxZwhh0H)
 - **Yousuf Naveed Khan GitHub**: [YousufNaveedKhan](https://github.com/yousufnaveedkhan)
 - **Muneeb Hassan Siddiqui GitHub**: [MuneebHassanSiddiqui](https://github.com/muneebhassansiddiqui)
