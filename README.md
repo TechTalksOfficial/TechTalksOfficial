@@ -13,7 +13,7 @@ We aim to create a community of learners who can easily access knowledge, improv
 - **PHP** (Beginner to Advanced) 🌐
 - **C#** (Beginner to Advanced) 💻
 - **Web Development** (HTML, CSS, JavaScript) 🌍
-  
+
 ### Real-World Projects:
 - **E-Commerce Stores** 🛒
 - **Authentication Systems** 🔑
@@ -50,3 +50,8 @@ We are always open to feedback, questions, and collaboration! Feel free to conne
 - **TechTalks WhatsApp Channel**: [Join Now](https://whatsapp.com/channel/0029VagV97dAYlUArxZwhh0H)
 - **Yousuf Naveed Khan GitHub**: [YousufNaveedKhan](https://github.com/yousufnaveedkhan)
 - **Muneeb Hassan Siddiqui GitHub**: [MuneebHassanSiddiqui](https://github.com/muneebhassansiddiqui)
+
+## 🌐 Visit Our Portfolio
+Want to learn more about our work and the projects we build? Check out our portfolio!
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%2300BFFF.svg?style=flat&logo=github&logoColor=white)](https://techtalksofficial.github.io/Portfolio/)
