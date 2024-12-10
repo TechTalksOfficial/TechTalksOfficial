@@ -1,5 +1,7 @@
 # Assalam Walaikum! We are **TechTalksOfficial** 👋
 
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%2300BFFF.svg?style=flat&logo=github&logoColor=white)](https://techtalksofficial.github.io/Portfolio/)
+
 Welcome to the **TechTalksOfficial** GitHub page! We are a passionate tech education team committed to making programming and technology more accessible to everyone. **TechTalks** is a collaborative initiative led by **Yousuf Naveed Khan** and **Muneeb Hassan Siddiqui**, two software developers who aim to bridge the gap between theory and real-world application.
 
 ## 🌍 Who We Are
@@ -50,8 +52,3 @@ We are always open to feedback, questions, and collaboration! Feel free to conne
 - **TechTalks WhatsApp Channel**: [Join Now](https://whatsapp.com/channel/0029VagV97dAYlUArxZwhh0H)
 - **Yousuf Naveed Khan GitHub**: [YousufNaveedKhan](https://github.com/yousufnaveedkhan)
 - **Muneeb Hassan Siddiqui GitHub**: [MuneebHassanSiddiqui](https://github.com/muneebhassansiddiqui)
-
-## 🌐 Visit Our Portfolio
-Want to learn more about our work and the projects we build? Check out our portfolio!
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%2300BFFF.svg?style=flat&logo=github&logoColor=white)](https://techtalksofficial.github.io/Portfolio/)
